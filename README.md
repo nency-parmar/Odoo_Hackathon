@@ -1,1 +1,1 @@
-# Odoo_Hackathon
+Odoo Hackathon Project – A collaborative, time-bound innovation challenge building custom Odoo modules, and integrations to solve real-world problems. Includes complete source code, configurations, and documentation for deployment.
